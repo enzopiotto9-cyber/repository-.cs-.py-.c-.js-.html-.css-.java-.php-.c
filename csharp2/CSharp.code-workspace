@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../CSharp"
+		},
+		{
+			"name": "csharp2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
