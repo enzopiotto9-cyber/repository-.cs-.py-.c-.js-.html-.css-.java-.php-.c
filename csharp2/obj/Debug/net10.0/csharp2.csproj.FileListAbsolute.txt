@@ -1,0 +1,15 @@
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.AssemblyInfoInputs.cache
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.AssemblyInfo.cs
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.sourcelink.json
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\bin\Debug\net10.0\csharp2.exe
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\bin\Debug\net10.0\csharp2.deps.json
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\bin\Debug\net10.0\csharp2.runtimeconfig.json
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\bin\Debug\net10.0\csharp2.dll
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\bin\Debug\net10.0\csharp2.pdb
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.dll
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\refint\csharp2.dll
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.pdb
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\csharp2.genruntimeconfig.cache
+C:\Users\DTG-2026\Desktop\repository-.cs-.py-.c-.js-.html-.css-.java-.php-.c\csharp2\obj\Debug\net10.0\ref\csharp2.dll
